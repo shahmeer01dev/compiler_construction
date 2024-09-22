@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "ostream": "cpp",
+        "unordered_set": "cpp",
+        "cctype": "cpp"
+    }
+}
